@@ -1,0 +1,14 @@
+/* Font add  */
+body{
+    @import url('https://fonts.googleapis.com/css2?family=Lobster&family=Oswald:wght@400;500&family=Poppins:wght@400;500&display=swap');
+    
+}
+/* Top players style  */
+.player{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr)
+}
+.players img{
+    width: 56px;
+    height: 56px;
+}
